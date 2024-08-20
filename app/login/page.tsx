@@ -41,7 +41,7 @@ export default function LoginPage() {
     <div className="h-screen flex items-center justify-center bg-[#2C964E] p-4">
       <div className="w-full max-w-md p-6 rounded-lg shadow-lg bg-white bg-opacity-90">
         <div className="text-center text-2xl font-bold text-[#2C964E] mb-4">
-          BREVNOKZ
+          ReOmir.kz
         </div>
         <h1 className="text-xl font-bold text-[#2C964E] mb-4 text-center">
           С возвращением!

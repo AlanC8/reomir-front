@@ -91,7 +91,7 @@ export default function LoginPage() {
           <p className="text-sm text-gray-600">
             Нет аккаунта?{" "}
             <Link
-              href="/auth/register"
+              href="/register"
               className="text-[#2C964E] font-semibold"
             >
               Зарегистрируйтесь
